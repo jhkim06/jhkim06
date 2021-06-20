@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 [![Generic badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/31774688)](https://api.accredible.com/)
-
+[![Google ACE](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33910218?key=19114fac4e92029bf752a505964b48ac65e8d3517c4b2fea62aa62dcacb9aad7](https://api.accredible.com/)
 <!---
 jhkim06/jhkim06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
